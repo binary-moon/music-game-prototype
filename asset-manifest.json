@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/music-game-prototype/static/js/main.ce4dfed1.js",
+    "static/js/787.937d523f.chunk.js": "/music-game-prototype/static/js/787.937d523f.chunk.js",
+    "static/media/1-Drum-Kit-1.wav": "/music-game-prototype/static/media/1-Drum-Kit-1.8bcf605be5d34c9db821.wav",
+    "static/media/12-Wavetable-Pads.wav": "/music-game-prototype/static/media/12-Wavetable-Pads.02b364c7a9bc89f90783.wav",
+    "static/media/13-Sidechain-Pad.wav": "/music-game-prototype/static/media/13-Sidechain-Pad.560527b28dae23655deb.wav",
+    "static/media/15-A-Hornet-Pillow.wav": "/music-game-prototype/static/media/15-A-Hornet-Pillow.20f83662eef9dfaf0aca.wav",
+    "static/media/2-Drum-Kit-2.wav": "/music-game-prototype/static/media/2-Drum-Kit-2.5366eab16a6217fe06b9.wav",
+    "static/media/3-Oxi-Bass-Rack.wav": "/music-game-prototype/static/media/3-Oxi-Bass-Rack.f2aa24fb7e65dc563984.wav",
+    "static/media/4-Three-Op-Bass.wav": "/music-game-prototype/static/media/4-Three-Op-Bass.158627398e4685143e13.wav",
+    "static/media/5-Deep-in-Dark.wav": "/music-game-prototype/static/media/5-Deep-in-Dark.0f633e072c9d547333fd.wav",
+    "static/media/6-Crossover-Syn-Bass.wav": "/music-game-prototype/static/media/6-Crossover-Syn-Bass.99557337a6327fdd9bc8.wav",
+    "static/media/7-Vocals-Group.wav": "/music-game-prototype/static/media/7-Vocals-Group.3e963daae193f1aa492b.wav",
+    "static/media/sprite-image-horizontal.png": "/music-game-prototype/static/media/sprite-image-horizontal.a81b3ad27eb564e0757c.png",
+    "index.html": "/music-game-prototype/index.html",
+    "main.ce4dfed1.js.map": "/music-game-prototype/static/js/main.ce4dfed1.js.map",
+    "787.937d523f.chunk.js.map": "/music-game-prototype/static/js/787.937d523f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ce4dfed1.js"
+  ]
+}
